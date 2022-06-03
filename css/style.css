@@ -101,7 +101,7 @@ body{
     background: transparent;
     border: none;
     outline: none;
-    color: --var(--color);
+    color: var(--color);
 }
 .nav__content{
     display: flex;
